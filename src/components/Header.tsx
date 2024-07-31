@@ -22,7 +22,7 @@ export default function Header() {
       <header id='main-header'>
         <div id='main-title'>
           <img src='logo.png' alt='Elegant model' />
-          <h1>Elegant Redux</h1>
+          <h1>Shopping cart sample</h1>
         </div>
         <p>
           <button onClick={handleOpenCartClick}>Cart ({items})</button>
